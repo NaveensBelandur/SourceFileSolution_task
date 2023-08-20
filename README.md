@@ -1,9 +1,9 @@
-# Clone THe project
+# Clone The project
  Npm start
 
 
 
 
-packages used 
+Packages used 
 MDB react 
 react-toastify
